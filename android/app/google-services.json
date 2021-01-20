@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545387536369",
+    "project_id": "loja-flutter-ss-labs",
+    "storage_bucket": "loja-flutter-ss-labs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545387536369:android:20653de7cd34e9645aae50",
+        "android_client_info": {
+          "package_name": "org.sslabs.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545387536369-m18ipl64so1ahk6sc3bd6ce5g6sga0cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw3gE7EsxAdByJ50Tr01ShOv1Y7kRyqPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545387536369-m18ipl64so1ahk6sc3bd6ce5g6sga0cs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
